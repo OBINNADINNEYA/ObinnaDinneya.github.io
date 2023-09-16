@@ -1,32 +1,19 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Welcome to My Data Science Portfolio
 
+This repository contains a collection of my diverse data science projects and an up-to-date version of my resume.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## About
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+In this repository, you'll find a compilation of projects I've undertaken in the field of data science. These projects demonstrate my proficiency in data analysis, machine learning, data visualization, and various related skills. The projects showcase my ability to solve real-world problems using data-driven approaches.
 
-(* = not included)
+Additionally, you can access my up-to-date resume, providing insights into my educational background, work experiences, and skills relevant to data science and analytics.
 
-AJ
-aj@lkn.io | @ajlkn
+## Contents
 
+- **Data Science Projects:** Explore a variety of data-driven projects I've completed, each highlighting different aspects of data analysis, machine learning, and visualization.
 
-Credits:
+- **Resume:** Access my latest resume to learn about my professional background, skills, and experiences in the data science domain.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Feel free to navigate through the projects and my resume. If you have any questions, inquiries, or would like to collaborate, please feel free to contact me. Thank you for visiting!
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Happy exploring! 😊
